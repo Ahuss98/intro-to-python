@@ -7,6 +7,8 @@ from lib.helpers import check_that_these_are_equal
 # Note that the exercise will be (a little) less challenging
 # than the example.
 
+
+
 # Write a function that takes a list of words and returns a
 # report of all the words that are longer than 10 characters
 # but don't contain a hyphen. If those words are longer than
